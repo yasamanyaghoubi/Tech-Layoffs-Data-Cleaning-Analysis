@@ -23,7 +23,9 @@ The dataset contained inconsistencies, missing values, and formatting issues, wh
 
 ## 📂 Project Structure
 ├── SQL data cleaning project.sql # Step-by-step data cleaning queries
+
 ├── EDA_layoff.sql # EDA queries and insights
+
 └── README.md # Project documentation
 
 
