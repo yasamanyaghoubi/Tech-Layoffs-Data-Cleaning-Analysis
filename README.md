@@ -84,6 +84,7 @@ SELECT *
 FROM company_year_rank
 WHERE ranking <= 5;
 ```
+##🚀 How to Run
 git clone https://github.com/yourusername/tech-layoffs-sql.git
 cd tech-layoffs-sql
 
